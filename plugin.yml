@@ -1,0 +1,11 @@
+name: PluginJoinEvent
+main: pluginJoinEvent.Main
+version: 1.0
+author: Matthew Williams
+commands:
+   kit:
+      description: used to give the player a kit.
+      usage: /kit
+   kits:
+      description: used to list kits.
+      usage: /kits
