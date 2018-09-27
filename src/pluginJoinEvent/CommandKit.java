@@ -16,7 +16,7 @@ public class CommandKit implements CommandExecutor {
 
 		if (sender instanceof Player) {
 
-			Player user = (Player) sender;
+			Player user = (Player) sender; 
 
 			// item stack for starter kits
 			ItemStack starterFood = new ItemStack(Material.APPLE);
